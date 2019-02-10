@@ -1,319 +1,278 @@
-# Plataforma de ventas en línea
+ MARKETPLACE PAUSA
 
-## Preámbulo
+![Image of Pausa](https://pausa.la/img/icons/pausa-logo.png)
 
-En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
-online sigue creciendo y la gama de cosas que pueden comprar también lo hace.
-Como compradores no siempre somos conscientes de todo lo que debe pasar para que
-los productos que necesitamos estén en una repisa del supermercado o de una
-tienda. En el comercio minorista hay una serie de intermediarios que en
-ocasiones nos hacen perder la pista del ‘viaje’ de un producto; un viaje que va
-encareciendo el producto por cada empresa por la que debe pasar hasta que llega
-a las manos de nosotros, los consumidores.
-En esta realidad hay dos actores perjudicados: el consumidor, que acaba pagando
-más por un producto y el productor o fabricante, que se ve presionado a vender
-más barato para que su producto llegue al consumidor a un precio asequible y que
-todos puedan beneficiarse en el camino.
+## ¿Qué es Pausa?
 
-## Introducción
+Pausa es un emprendimiento dedicado a inspirar a los viajeros a tener vidas más sostenibles conectándolos con experiencias y personas que generan un impacto positivo en el planeta. 
 
-### “Nuevo portal de e-commerce”
+## Objetivos del Proyecto:
 
-Nos han contactado de la Asociación Nacional de Pequeños Comerciantes, una
-asociación que agrupa a pequeñas y medianas empresas que comercializan productos y servicios, y nos piden
-que asesoremos a **uno** de sus miembros en crear un portal desde donde los
-clientes compren sus productos sin intermediarios. Los miembros con los que trabajarás son: 
+Crear una plataforma online que mejore y haga más fácil el proceso de compra de los servicios de Pausa.
 
-- [Dulcecreación](https://www.facebook.com/dulcecreaci%C3%B3n-2077087549044496/)
-- [Central Fly](https://www.facebook.com/CENTRALFLY/)
-- [Euro Piggy](https://www.facebook.com/EuroPiggy/)
-- [Isanka Peruvian Bags](https://www.facebook.com/IsankaPeruvianBags/)
+## Fundamentación y Presupuesto:
+
+Para nuestro proyecto decidimos usar las siguientes herramientas:
+ 
+Proceso de design thinking | Actividad | Descripción | Puntos
+-------------------------- | --------- | ----------- | -------
+Descubrimiento e investigación | Entendimiento del problema, la industria y el contexto | Realizamos una investigamos sobre nuestro cliente, sus servicios y el mercado en que se desenvuelve. | 15
+Descubrimiento e investigación | Entrevistas con cliente | Entrevista con el cliente (fundador de Pausa) determinando sus metas y objetivos. | 25
+Descubrimiento e investigación| Entrevistas con usuarios | Entrevistas a 2 usuarios de Pausa y a 4 potenciales usuarios. | 60
+Ideación | Benchmark | Revisión de características de la competencia y referencias análogas. | 20
+Prototipado | Sketching y wireframing | Elaboración de prototipos de baja. | 30
+Testeo con usuarios | Testeos de prototipos | Testing de prototipo de baja fidelidad con 5 usuarios. | 60
+Prototipado | Prototipado de alta fidelidad | Elaboración del prototipo en Figma aplicando los resultados obtenidos en el Test.| 80
+TOTAL | | | 290
+
+
 - [Pausa](https://www.facebook.com/pausa.travel/)
-- [Centro de Investigación y Desarrollo de Farmacoepidemiología (CID FARMA)](https://www.facebook.com/CIDFARMA/)
-
-Luego de conocer con qué miembro trabajarás, la ANPC te pide que ayudes a ese
-miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
-cómo deben ofrecer los productos a los consumidores. Quieren que averigües cómo
-son los clientes que utilizaría este canal de venta y cuáles son sus
-motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
-una visión de cómo podría plantearse este nuevo canal de ventas.
-
-Una vez conozcas a los posibles compradores debes formular una propuesta de
-valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus
-beneficios a los usuarios y cómo va a vender sus productos. Para que guíes a la
-empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
-cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
-comprar sus productos.
-
-## Objetivos de aprendizaje
-
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
-Esperamos que en este proyecto puedas entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
-
-De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
-será responsable de una parte del trabajo: (1) el entendimiento del problema y
-(2) planeamiento y validación de la solución.
-
-## Tópicos a cubrir
-
-Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
-research (entrevistas, benchmark), arquitectura de la información (flujo de
-contenido, mapa de sitio), diseño visual y de interacción (wireframes y
-prototipado), y user testing.
-
-## Consideraciones generales
-
-Para ser una gran UX no sólo debes familiarizarte con los conceptos sino,
-también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitas en todo momento estar atenta al cómo y no sólo al qué. En este
-sentido, es esencial que practiques el modo en que te comunicas frente al
-cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarte en lo que tú quieres comunicar.
-
-* Relación con el cliente: la empresa miembro con la que te toque trabajar será
-tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
-relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
-haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
-cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
-curiosidad es clave para entender la problemática. El problema del cliente no
-siempre es el primero que parece, debes investigar la empresa y la competencia
-para entender lo que sucede. Para mantener una buena relación con los clientes
-debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
-resultados y el beneficio que ellos podrían obtener. También debes estudiar las
-mejores prácticas en la industria del comercio electrónico para poder mostrarle
-al cliente casos de éxito.
-
-* Benchmark: revisar referencias y dar referencias es clave para tu relación con
-el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
-haciendo la competencia o industrias similares. De esta manera, puedes traer
-buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente
-le da la confianza de que efectivamente tienes conocimiento de su problemática y
-que has estudiado todas las posibles soluciones. Para que el benchmark sea
-efectivo, tu curiosidad y pensamiento crítico deben ser altos; no sólo buscar
-las referencias que resulten obvias, sino otras industrias que puedan funcionar
-de manera similar o empresas pequeñas que están teniendo casos de éxito.
-
-* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática
-debes realizar un plan de trabajo, donde se visualicen las herramientas que
-estás utilizando y por qué las escogiste. No todas las problemáticas requieren
-que utilices las mismas herramientas. Debes utilizar la que mejor se ajuste. Es
-importante que siempre sustentes tu idea, no se trata de trabajar de manera
-mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor
-manera de aproximarse a una posible solución.
-
-* Testing centrado en el usuario: Realizar las pruebas con los usuarios
-garantiza que los problemas se detecten antes, las buenas ideas se introducen
-más rápido y se reducen los esfuerzos de diseño y desarrollo de productos
-innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo
-se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una
-técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El
-testing es una buena forma de profundizar en las necesidades y preferencias de
-los usuarios observando sus reacciones mientras usan un producto. Para que el
-testing realmente esté centrado en el usuario, tú debes centrarte también en él,
-actuando con curiosidad y empatía en todo momento, preguntando de manera activa
-al usuario qué podrías mejorar y buscar aquellos errores que llevarán tu
-producto al siguiente nivel. No trates de que el usuario apruebe tu producto,
-llévalo a buscar las mejoras y posibles errores, generando una relación de
-confianza con el usuario.
-
-Tu curiosidad, empatía y pensamiento crítico son claves para tu éxito como UX
-Designer. En cada herramienta que utilices debes poner a prueba tus soft skills.
-Nunca des nada por supuesto, siempre pregunta hasta encontrar nuevas respuestas,
-debes actuar en todo momento con un pensamiento crítico, sino harás de manera
-mecánica tus proyectos sin encontrar soluciones innovadoras. Sé una
-investigadora, tu curiosidad es clave en los procesos creativos; pregunta
-constantemente y no intentes buscar soluciones inmediatas, aprende a navegar con
-la incertidumbre. La empatía es la habilidad que te va a guiar en las relaciones
-tanto con el cliente como con el usuario, intenta salir de tu mente y tus
-supuestos para entender cómo piensan los otros.
-
-## Parte Obligatoria
-
-### 1) General
-
-En este proyecto necesitarás salir a hablar con usuarios reales y entender
-cuáles son sus necesidades, cómo las resuelven actualmente y proponer una
-solución óptima para resolver estas necesidades. Mientras resuelves el proyecto
-vas a tener que ir documentando las actividades que realices a través de fotos,
-videos, textos y scripts. Utiliza tu en Google Drive para guardar toda esta
-documentación y luego linkea las partes más importantes en el `README.md` de tu
-repositorio en GitHub.
-
-En este caso el README.md será la portada de tu solución final, en él tendrás
-que mostrar la solución final a través de screenshots y podrás compartir links a
-las secciones que detallaremos más adelante.
-
-### 2) Entendimiento del problema
-
-Durante esta parte te asegurarás que el producto que diseñarás es el correcto,
-es decir, que sigue objetivos de negocio y que resuelve necesidades reales de
-los usuarios. Para ello tendrás que entender al cliente (el miembro de la
-Asociación Nacional de Pequeños Comerciantes con quien estás trabajando) y a los
-usuarios. Luego de entender el problema, tendrás que plantear cómo es que vas a
-resolver dicho problema. Para ello puedes realizar muchas actividades, sin
-embargo el tiempo y los recursos que tienes son limitados. Tendrás que elegir
-bien qué actividades realizarás.
-
-### 3) Planteamiento y validación de la solución
-
-Luego de haber definido cómo es que será la solución, es decir qué
-funcionalidades tendrá y por qué, tendrás que implementarla. En este caso,
-tendrás que hacer un prototipo de alta fidelidad y tendrás que validarlo. Cómo
-en el caso anterior, para crear y validar la solución puedes realizar muchas
-actividades, depende de ti elegir cuáles son las más adecuadas para el caso y
-los recursos que tienes.
-
-## Implementación
-
-Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
-puntos los podrás utilizar realizando las actividades del siguiente cuadro.
-Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-cómo es que distribuirás estos puntos en estas actividades.
-El coach te dará el ok para que puedas empezar.
-
-|Actividad|Descripción|Puntos|
-|:----|:---|:---:|
-|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
-|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
-|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
-|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
-|Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
-|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
-|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
-
-## Entrega
-
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
-
-README.md  explicando el proceso del proyecto:
-* Objetivos del proyecto
-* Problemas identificados en la investigación (del cliente y del usuario)
-* Definición del público objetivo
-    * User persona
-    * Customer Journey Map (indicando pain y gain points)
-* Definición de la solución/producto
-* Link a prototipo navegable
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto. 
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
-
-Un video en [Loom](https://www.useloom.com/) de máximo 10 minutos explicando tu documento.
-* Estos 10 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
-
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso:
-
-* Fotos, videos, guías de las actividades que realizaste
-* Flujo de usuario
-* Mapa de sitio
-* Etc.
-
-## Otras consideraciones
-
-### 1) Planeamiento y presupuesto
-
-Cuando realices el planeamiento de cómo enfrentarás el reto deberás sustentarlo
-ante tu cliente y ante un coach. Ellos te darán la aprobación final para seguir
-con las actividades planteadas.
-
-### 2) Definición del producto
-
-Al definir el producto recuerda pensar en:
-
-* Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
-* Cuál será la propuesta de valor del sitio que vas a crear
-* Cuáles son los contenidos que el usuarios quiere ver, la información que
-  buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
-  encontrar lo que busca y comprarlo
-* Cómo vas a distribuir y entregar esos contenidos
-* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
-* Cómo crees que el producto les está resolviendo sus problemas
-
-### 3) Prototipo de alta fidelidad
-
-Existen varias herramientas que puedes utilizar para crear tu prototipo,
-nosotros recomendamos Figma, sin embargo, eres libre de utilizar otras
-herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
-herramienta adicional como Marvel o Invision. Recuerda que el diseño que
-trabajes debe seguir los fundamentos de visual design, como: contraste,
-alineación, jerarquía, entre otros.
-
-### 4) HTML, CSS y JS
-Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarrolla **dos vistas como mínimo** (aparte del login)
-utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
-Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
-mobile-friendly. Despliega el código en GitHub Pages o Heroku.
 
 
-## Hacker edition
+## I. DESCUBRIMIENTO E INVESTIGACIÓN
 
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear tu
-propia web desde 0. 
+### 1. Antecedentes
 
-- Desarrolla **todo el flujo de tu propuesta**
-utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
+El turismo es una industria en constante crecimiento. Alrededor del mundo existen muchos destinos y muchas formas de hacer turismo. Pero, ¿cuántas de estas tienen la visión de sostenibilidad?, ¿cuántos respetan la naturaleza del cual se sirven para sus operaciones?
 
-- Escribe un post en Medium contando tu proceso de investigación
+Al respecto, el 79% de los viajeros considera que las prácticas eco-sostenibles en los alojamientos son necesarias mientras que el 91% de los alojamientos, a nivel mundial, está de acuerdo en que la sostenibilidad es importante.
 
-## Evaluación
+Dado que en el Perú el turismo es la tercera actividad con mayor rentabilidad, es bueno poder sostener que el turismo sostenible crece 18% al año.
 
-Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad
-y cada nivel. A continuación presentamos los niveles esperados de cada habilidad
-que deberías alcanzar al finalizar este proyecto:
+## 2. Entrevista con el cliente
 
-### UX Design
+Desde el inicio de nuestro proceso de investigación e implementación mantuvimos constante comunicación con Franco Chamochumbi, fundador de Pausa.
+Nos encontramos con él para realizarle una entrevista con el fin de conocer más sobre su emprendimiento y cuáles eran sus objetivos principales.
 
-|Habilidad|Nivel Esperado|
-|:---|:---:|
-|User centricity| 4 |
-|Planificación| 3 |
-|Entrevistas y testing| 3 |
-|Observación| 2 |
-|Síntesis de resultados| 3 |
-|Flujos de usuario| 3 |
-|Arquitectura de la información| 3 |
-|Prototyping| 3 |
-|Business mindset| 4 |
-|Visual Design| 4 |
+- [guía de preguntas](https://docs.google.com/document/d/1bpwWlr2nVNVTlVKP78PJIf2wjQXIFzRTPxmkUZCY5y8/edit)
+- [Modo de registro: audio y foto](https://drive.google.com/drive/folders/1kS5Bm76YbBgtwZ5RMxcGQnjHnaiSzEFB)
 
-### Habilidades blandas
+### Problemas indentificados
 
-|Habilidad|Nivel Esperado|
-|:---|:---:|
-|Planificación y organización| 4 |
-|Autoaprendizaje| 4 |
-|Solución de problemas| 4 |
-|Dar y recibir feedback| 4 |
-|Adaptabilidad| 4 |
-|Trabajo en equipo| 4 |
-|Comunicación eficaz| 4 |
-|Presentaciones| 4 |
+- Pausa necesita encontrar a su User Persona. Sólo conociendo a sus usuarios sabrán cómo y dónde canalizar.
+- Un problema también es ¿cómo promover el flujo en la página web? Es indispensable mejorar la comunicación y llegada a sus usuarios.
+- Se puede mejorar que la venta no se concreta de manera inmediata por Internet, los usuarios deben esperar entre 1 a 2 días para obtener la confirmación de su reserva.
+
+### Conclusiones
+
+PAUSA no es una simple agencia de viajes, su compromiso de promover el desarrollo sostenible, la conservación y al mismo tiempo apoyar a las comunidades le da un valor agregado diferente. Procuran darles a sus viajeros no sólo una experiencia nueva de viaje sino también generar un cambio positivo, contagiarlos con esta mentalidad consciente del medio ambiente.
+
+## 3. Screener Survey
+
+Durante el proceso de investigación realizamos una encuesta con la intención de identificar y conocer un poco mejor a los distintos tipos de viajeros.  
+Era escencial poder descubrir qué motivaciones determinaban sus elecciones de viaje.
+
+- [Guía de preguntas](https://docs.google.com/forms/d/1vFgb0YSZDekxJxlK6n96r9U2rtYfhtGCee2P6jiVNjc/edit)
+
+### Análisis de los resultados
+
+De un total de 31 personas encuestadas de entre 16 a 64 años el 100% se muestra interesada en viajar, siendo la falta de tiempo el mayor limitante con un 67.7% de coincidencia, el no contar con dinero suficiente ocupa el 19.4% mientras que el 12.9% indicó que no tenía ningún impedimento de viajar.
+
+Dentro de la misma investigación encontramos que el 32% de personas viaja al menos 1 vez al año, el 48% de 2 a 3 veces y por el último el 20% restante viaja de 4 a 6 veces.
+
+La principales motivaciones para viajar son:
+
+- Experimentar con distintas culturas 64%
+- Escapar de lo cotidiano 60%
+- Relajo 60%
+- Conectar con la naturaleza 44%
+
+El 60% de esos viajeros está de acuerdo con pagar tarifas más altas por servicios de viajes que demuestren responsabilidad ambiental y por último pero no menos importante el 96% de ellos mencionó al internet como su principal medio para investigar sobre sus viajes y concretarlos.
+
+### Reclutamiento de usuarios
+
+Concluido el análisis de nuestra encuesta y debido a que sus afinidades completaban el perfil encontramos a potenciales ususarios a quienes podríamos entrevistar:
+
+- Yveth Salas (31 años).
+- Carlos Jayashi (34 años).
+- Augusto Cier (30 años).
+- Ricardo Salazar (39 años).
+
+## 4. Entrevista con los usuarios
+
+- [Guía de preguntas](https://docs.google.com/document/d/1J3_ZLWDiyTO7V6nK28RsN29E_HTm5B6HRNVrrwqaitQ/edit)
+- [Modo de registro: audios y fotos](https://drive.google.com/drive/folders/1ulSc-KnlT6pU2KAnr3xAbYAmiAfW7Ro0)
+
+### Insights
+
+Empleamos la técnica del Affinity Map para poder compilar los datos de las entrevistas y así conocer más a profundidad las percepciones de nuestros usuarios:
+
+- Los usuarios prefieren siempre encontrar la información concisa en las páginas de viajes.
+- Valoran más las experiencias de viajes que salen de lo tradicional y les permiten conocer la verdadera escencia de los lugares.
+- Los viajeros son personas que cuentan con cierta estabilidad adquisitiva y que por lo general no tienen hijos.
+### Conclusión
+
+Las entrevistas que realizamos nos permitió descubrir que tenemos dos distintos User Persona. Pese a que el perfil de las personas que viajan suele a ser a grandes rasgos muy similar, poseén también diferentes motivaciones que determinarán la toma de sus decisiones cuando eligen un viaje.
+
+## II. SÍNTESIS E INVESTIGACIÓN
+
+## 1. Affinity Map
+
+<p align="center">
+ <img src="https://i.ibb.co/TgszMb6/20190209-023826-1.jpg">
+</p>
+
+<p align="center">
+ <img src="https://i.ibb.co/YNCPPLB/20190209-024104-1-1.jpg">
+</p>
+
+## 2. User Persona
+
+<p align="center">
+ <img src="https://i.ibb.co/Dzp2cgN/User-persona-Luciano.png">
+</p>
+
+### Conclusión
+
+Nuestros principal User Persona es **Luciano**, mientras  **Chiara** es la secundaria. Ambos son apasionados viajeros, creen firmemente que viajar los hace seres más sabios y enriquece sus historias de vida, no obstante aquello que los diferencia es la cantidad dinero que están dispuestos a invertir en sus proyectos de viaje.
+
+Desde este punto en adelante **Luciano** será el usuario  en que enfocaremos las mejoras del proyecto.
+
+## 3. Customer Journey Map
+
+<p align="center">
+ <img src="https://i.ibb.co/xHNXF6J/Journey-Map-PAUSA.png">
+</p>
+
+### Conclusión
+
+El Journey Map nos permitió plasmar de manera más clara los puntos más altos dentro del recorrido en la experiencia de los usuarios de Pausa, indentificamos así la necesidad de mejorar el posicionamiento de la marca en Internet y los principales puntos de mejora en la Página.
+
+## 4. Problem Statements
+
+Como parte de la Investigación encontramos los siguientes **Problem Statements** :
+
+- Luciano necesita que la información esté clara y concisa para que pueda comprar más rápido su viaje.
+- Luciano necesita conocer desde un inicio en la web la propuesta de valor de la empresa para entender su objetivo.
+- Luciano necesita que en la página se muestren fotos, comentarios e información actualizada para no adquirir una sobrepromesa.
+- Luciano debería tener las fechas confirmadas para poder programar sus tiempos.
+- Luciano requiere encontrar en páginas de reseñas de contenido a la empresa para sentir más confianza en reservar.
+
+Así mismo utilizamos el método **How Might We (HMW)** para idear posibles soluciones a sus dificultades :
+
+- HMW hacer de la página una plataforma donde los viajeros quieran visitar?
+- HMW hacer que la propuesta de sostenibilidad se vea atractiva?
+- HMW aprovechar el contenido vivencial para impactar en los usuarios?
+- HMW hacer que la experiencia previa a la confirmación de la reserva se sienta agradable?
+- HMW hacer que la página sea una de las primeras en visualizarse en los buscadores?
+
+## 5. Definición del producto
+
+- ¿Quiénes son los principales usuarios de producto?  
+
+Los principales usuarios de Pausa son aquellos viajeros que prefieren romper el esquema de los viajes tradicionales, amantes de la aventura que valoran la cultura pero sobre todo comparten su visión de preservar la Naturaleza.
+
+- ¿Cuáles son los objetivos del negocio en relación con el producto?
+
+Pausa ofrece paquetes de viajes a destinos exóticos del Perú, su Objetivo es promover la sostenibilidad de estos lugares y al mismo tiempo apoyar a los emprendedores de la zona.
+
+- ¿Cuáles son los objetivos de estos usuarios en relación con el producto?
+
+Las personas que viajan con Pausa esperan obtener una experiencia totalmente distinta, conocer estos paraísos naturales y disfrutar de la aventura que esto representa.
+
+- ¿Cuál será la propuesta de valor del sitio que vas a crear?
+
+Nuestra meta es optimizar la claridad con se trasmite la visión de este emprendimiento, la página web debe mostrar desde el inicio 'Quienes son' y 'Qué es lo que hacen'.
+ Así mismo contribuir en mejorar la fluidez de la comunicación entre Pausa y sus usuarios.
+
+- ¿Cuáles son los contenidos que el usuarios quiere ver, la información que buscarían para convencerse de comprar, confiar en la empresa que lo ofrece, encontrar lo que busca y comprarlo?
+
+El usuario quiere encontrar información clara y concisa, una valoración en estrellas otorgada por los usuarios previos, junto con reseñas reales y actualizadas le daría más confianza al momento de decidir.  
+Luego de decidir hacer su reserva, las fechas disponibles deben ser mostradas de la manera más clara y transparente posible para que los usuarios se sientan seguros durante toda su experiencia en la página.
+
+- ¿Cómo vas a distribuir y entregar esos contenidos?
+
+La fotos más atrayentes de sus destinos estarán pasando ante la vista de los usuarios mediante un display de imagenes con el slogan de Pausa. Debajo de ello un resumen corto y conciso de quienes son y lo que hacen.
+
+Luego se podrá apreciar la información que más valoran encontrar los viajeros dividida en 3 secciones, que son: los destinos, los emprendedores del lugar al que viajarán y los testimonios de los viajeros. Podrán ahondar a mayor detalle en cada una de ellas dándole click.
+
+- ¿Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web?
+
+
+
+- ¿Cómo crees que el producto les está resolviendo sus problemas?
+
+Uno de los problemas que más resaltaron los usuarios fue la falta de claridad en el mensaje que intenta proyectar Pausa y la forma en que la presenta su información, por ello definimos el orden y contenido del prototipo de la página en base a las soliciones que ideamos ante los Problem Statements que encontrados.
+
+## III. IDEACIÓN
+
+## 1. Benchmark
+
+<p align="center">
+ <img src="https://i.ibb.co/nnZmrWZ/Benchmark-Pausa.png">
+</p>
+
+## 2. User Flow 
+FALTA ARMARLO
+
+## IV. PROTOTIPADO
+
+## 1. Baja fidelidad
+
+- [Desktop](https://drive.google.com/drive/folders/14V1CdXueGBNSgDoRpAPP_q_pYHcRaGCm)
+<p align="center">
+ <img src="https://i.ibb.co/wLXNYK7/Scan0006.jpg">
+</p>
+
+- [Mobile](https://drive.google.com/drive/folders/1o_Qjf8kjcw7PaI4MPOIdEeIpNeSsUY-A)
+<p align="center">
+ <img src="https://i.ibb.co/kG06Ftz/Scan0010.jpg">
+</p>
+
+## 2. Mediana fidelidad
+
+El prototipo de mediana fidelidad representa de manera más gráfica y profesional las visiones de mejora que propusimos para el sketch.
+
+- [LINK A PROTOTIPO]()
+
+## 3. Alta fidelidad
+
+Una de las primeras cosas que hicimos fue investigar y definir la paleta de colores de Pausa y su tipografía para poder aplicarlas a resto del diseño que realizamos en Figma. La intención era mantenernos fiel al estilo de la página oficial mientras optimizabamos la presentación de su contenido.
+
+- [LINK A PROTOTIPO]()
+
+## V. PROTOTIPADO INTERACTIVO (MARVEL)
+
+- Link prototipo desktop
+- Link prototipo mobile
+
+## VI. USER TESTING
+
+Realizamos el **Testeo de usabilidad** con 5 usuarios en el caso de el prototipo de Baja Fidelidad y 1 usuario en el de Alta.
+
+### 1. Prototipo de baja fidelidad
+
+- [Ver videos y fotos](https://drive.google.com/drive/folders/1q7hooY3qjjMhFkcePiJae-kWdnQt6BMH)
+
+### Hallazgos
+
+En el testeo del prototipo de baja fidelidad descubrimos que la palabra 'Emprendedor' para la mayoría, no es un termino muy asertado ni fácil de comprender.
+
+### Conclusión
+
+Debíamos buscar un termino nuevo para referirnos a los Emprendedores de la zona, una palabra que sea más amigable y sencilla para los usuarios.  
+También era posible acotar aún más el contenido y mejorar la forma en que se visualizan las fechas disponibles para reservar, de esa manera haríamos más placentera la experiencia del usuario.
+
+
+### 2. Prototipo de alta fidelidad
+
+- [Ver videos y fotos]()
+### Hallazgos
+
+
+
+### Conclusión
+
+
+
+## VII. CARPETA DEL PROYECTO
+
+- [Entrevistas]()
+- [Zeplin](link)
+- [Vídeo LOOM](link)
+
+## VIII. PLANIFICACIÓN
+ 
+ - [Trello](https://trello.com/b/Yfx1aL0v/proyecto-market-place)
+
+## IX. FUTURAS MEJORAS

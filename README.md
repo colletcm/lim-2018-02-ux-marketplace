@@ -203,7 +203,16 @@ Uno de los problemas que más resaltaron los usuarios fue la falta de claridad e
 </p>
 
 ## 2. User Flow 
-FALTA ARMARLO
+
+<p align="center">
+ <img src="https://i.ibb.co/yBKdJ4h/USER-FLOW-Diagram.png">
+</p>
+
+## 3. Mapa de Sitio
+
+<p align="center">
+ <img src="https://i.ibb.co/VQRLyX4/MAPA-DE-SITIO.png">
+</p>
 
 ## IV. PROTOTIPADO
 

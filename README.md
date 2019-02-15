@@ -4,9 +4,22 @@
  <img src="https://pausa.la/img/icons/pausa-logo.png">
 </p>
 
+
+<p align="center">
+ <img src="https://i.ibb.co/wJtFs2k/Mara-on02.png">
+</p>
+
+Foto: [Destino Marañón](https://pausa.la/es/rutas/maranon_libre)
+
 ## ¿Qué es Pausa?
 
 Es una empresa de turismo que ayuda a las personas que buscan una reconexión con la naturaleza, consigo mismas u otras personas, a encontrar y facilitar un viaje flexible a un destino sostenible, gestionados o cuidados por familias asombrosas, que inspiran y que han decidido dedicar su vida a conservar y cuidar el medio ambiente.
+
+<p align="center">
+ <img src="https://i.ibb.co/Xyj0BjT/IMG-5778.jpg">
+</p>
+
+Foto: [Conservación Soqtapata](https://www.conservamospornaturaleza.org/area/soqtapata/)
 
 ## Objetivos del Proyecto:
 
@@ -130,6 +143,10 @@ Como priorización, en delante, **Luciano** será el usuario en quien enfocaremo
 
 ### 3. Customer Journey Map
 
+<p align="center">
+ <img src="https://i.ibb.co/xHNXF6J/Journey-Map-PAUSA.png">
+</p>
+
 #### Conclusión
 
 Esta herramienta fue de bastante utilidad porque nos permitió plasmar de manera más clara los *touchpoints, pain and gain* dentro del recorrido en la experiencia de los usuarios de Pausa. 
@@ -138,10 +155,6 @@ Indentificamos así los 3 principales *improvement points*:
 - Posicionamiento en buscadores: No es fácilmente ubicable al momento de buscar algún destino que la empresa ofrece.
 - Propuesta de valor de la marca: Desde el inicio de la navegación en su website, no se entiende el mensaje y objetivo principal que la empresa ofrece a los viajeros.
 - Confirmación de fechas: No existe una confirmación inmediata de las fecha de viaje lo que implica cierta incomodidad a los usuarios; más aún si tienen una fecha establecida para poder viajar.
-
-<p align="center">
- <img src="https://i.ibb.co/xHNXF6J/Journey-Map-PAUSA.png">
-</p>
 
 ### 4. Problem Statements
 
@@ -235,58 +248,58 @@ Para revisar la documentación:
 
 ### 2. Mediana fidelidad
 
-El prototipo de mediana fidelidad representa de manera más gráfica y profesional las visiones de mejora que propusimos para el sketch.
-
-Para revisar la documentación:
-- [Link prototipo mobile]()
-- [Link prototipo desktop]()
+Por optimización de tiempos, priorizamos el diseño del prototipo de alta fidelidad.
 
 ### 3. Alta fidelidad
 
-Una de las primeras cosas que hicimos fue investigar y definir la paleta de colores de Pausa y su tipografía para poder aplicarlas a resto del diseño que realizamos en Figma. La intención era mantenernos fiel al estilo de la página oficial mientras optimizabamos la presentación de su contenido.
+Una de las primeras cosas que hicimos fue investigar y definir la paleta de colores de Pausa y su tipografía para poder aplicarlas a resto del diseño que realizamos en Figma. Asimismo, conservamos la identidad de la marca y el estilo gráfico optimizando la presentación de su contenido.
+
+<p align="center">
+ <img src="https://i.ibb.co/jGbz1TK/paleta-de-pausa.png">
+</p>
 
 Para revisar la documentación:
 - [Link prototipo mobile](https://www.figma.com/file/HIqaKjgGjKMNYAMdqMDj2sBk/Mobile-Pausa?node-id=0%3A1)
-- [Link prototipo desktop]()
-
-## V. PROTOTIPADO INTERACTIVO (MARVEL)
-
-- [Link prototipo mobile]()
-- [Link prototipo desktop]()
 
 ## VI. USER TESTING
 
 ### 1. Prototipo de baja fidelidad
 
+#### Hallazgos
+
+Algunos cambios que surgieron del testeo con usuarios del prototipo de baja de fidelidad:
+- Darle un *look and feel* bastante alejado a las páginas convencionales de viaje; es decir, que durante la navegación se entienda que el enfoque de la página es transmitir un estilo de vida consciente en los viajeros, reforzando que no se sienta en una primera impresión que están vendiendo paquetes.
+- Los usuarios resaltaron que es indispensable cómo la empresa utiliza su comunicación para lograr cercanía con ellos; en pocas palabras, alinear su propuesta de valor con el lenguaje que emplean para conectar y atraer los su público.
+- Descubrimos que la palabra 'Emprendedor' para la mayoría, no es un termino muy asertado ni fácil de comprender.
+- Consideran que visualizar los reviews de las personas que tuvieron una experiencia previa es de gran valor al momento de determinar la compra de un destino.
+- Les gustaría poder saber antes de reservar que las fechas no están disponibles para viajar cuando ellos quisieran, sino que existe una coordinación previa con las personas que convervan los destinos ofrecidos.
+
 Para revisar la documentación:
 - [Ver videos y fotos](https://drive.google.com/drive/folders/1q7hooY3qjjMhFkcePiJae-kWdnQt6BMH)
 
+#### Conclusión
+
+- Romper el esquema del diseño tradicional y utilizar elementos y estilos que hagan destacar que la propuesta de valor es realmente lo suficientemente buena.
+- Debíamos buscar un termino nuevo para referirnos a los Emprendedores de la zona, una palabra que sea más amigable y sencilla para los usuarios.  
+- También era posible acotar aún más el contenido y mejorar la forma en que se visualizan las fechas disponibles para reservar, de esa manera haríamos más placentera la experiencia del usuario.
+- Agregar los reviews con un rating, actualizados y sobre todo no considerar un filtro previo; quiere decir que se visualicen los buenos y malos para que tengan una visión más general del lugar de destino y de toda la experiencia.
+
+### 2. Prototipo de alta fidelidad
+
 #### Hallazgos
 
-En el testeo del prototipo de baja fidelidad descubrimos que la palabra 'Emprendedor' para la mayoría, no es un termino muy asertado ni fácil de comprender.
+
 
 #### Conclusión
 
-Debíamos buscar un termino nuevo para referirnos a los Emprendedores de la zona, una palabra que sea más amigable y sencilla para los usuarios.  
-También era posible acotar aún más el contenido y mejorar la forma en que se visualizan las fechas disponibles para reservar, de esa manera haríamos más placentera la experiencia del usuario.
-
-### 2. Prototipo de alta fidelidad
 
 Para revisar la documentación:
 - [Ver videos y fotos]()
 
-#### Hallazgos
-
-
-
-#### Conclusión
-
-
-
 ## VII. DOCUMENTACIÓN DEL PROYECTO
 
 - [Carpeta Drive](https://drive.google.com/drive/folders/1QHugPE4XJwMjRapKOjGji918AE08yrvl)
-- [Zeplin](link)
+- [Zeplin](https://zpl.io/aXwQODM)
 - [Vídeo LOOM](link)
 
 ## VIII. PLANIFICACIÓN

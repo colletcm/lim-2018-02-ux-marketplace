@@ -1,0 +1,94 @@
+.logo{
+    padding: 0.5%;
+}
+nav a {
+    color : #FE970F !important
+}
+body {
+    background: #f2f2f2 !important;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400
+}
+
+.card-title{
+    text-align: left;
+    padding-top: 140px;
+    line-height: 1rem
+}
+.card-img-overlay{
+    text-align:left; 
+}
+.card-deck{
+    margin: 2%;
+    padding: 4%
+}
+#mapa{
+    padding-right: 20%;
+    padding-left: 20%;
+    margin: 0% 
+}
+
+footer {
+    background: #2C2C2C;
+    clear: both;
+    font-size: 12px;
+    padding: 15px 0 20px;
+    text-align: center;
+    color: #f2f2f2
+ }
+ .navbar{
+    position: fixed !important;
+    z-index: 10;
+    right: 0;
+    left: 0;
+    top: 0;
+    color: #FE970F
+ }
+
+ footer ul {
+     list-style-type: none;
+ }
+ .networks li {
+     display: inline-block;
+ }
+ .networks li img {
+     width: 35px;
+     margin: 0 10px
+ }
+ .networks {
+    padding: 10px 0 10px;
+    margin: 0 20px
+ }
+ .copy {
+    margin-top: 20px;
+ }
+ .contact{
+    text-align: center
+ }
+ .alianza-mention{
+    text-align: center
+ }
+ footer .networks{
+    width: 100%;
+    margin: 0 !important
+ }
+ .img-alianza{
+    width: 20%;
+    height: auto
+ }
+ .mensaje-de-valor{
+     padding-top: 20px;
+     text-align: center;
+ }
+ 
+ @media only screen and (max-width: 600px) {
+.card-title{
+    font-size: 16px;
+    padding-top: 100px;
+}
+.card-text{
+    font-size: 14px;
+}
+
+ }
+

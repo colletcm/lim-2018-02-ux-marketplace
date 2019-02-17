@@ -4,44 +4,170 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>PAUSA UX</title>
+    <title>PAUSA</title>
     <link rel="icon" type="image/png" href="img/pausa-feliz.png"/>
     <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/css/bootstrap.min.css" integrity="sha384-PDle/QlgIONtM1aqA2Qemk5gPOE7wFq8+Em+G/hmo5Iq0CCmYZLv3fVRDJ4MMwEA" crossorigin="anonymous">
-</head>
+  </head>
 <body>
+  <main>
+  <header>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+          <a class="navbar-brand" href="#"> <img src="img/pausa-logo-small.png" alt=""></a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+                <li class="nav-item dropdown active">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      Nuestra Historia
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                      <a class="dropdown-item" href="#">Conócenos</a>
+                      <a class="dropdown-item" href="#">Anfitriones</a>
+                      <a class="dropdown-item" href="#">Turismo sostenible</a>
+                      <a class="dropdown-item" href="#">Equipo</a>
+                      <a class="dropdown-item" href="#">Aliados</a>
+                    </div>
+                  </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">¿Dónde ir? <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Blog</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Preguntas frecuentes</a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link" href="#">Nuestras Noticias</a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link" href="#">Iniciar sesión</a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link" href="#">Contáctanos</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+  </header>
 
-    <nav class="site-header sticky-top py-1">
-            <div class="container d-flex flex-column flex-md-row justify-content-between">
-              <a class="py-2 d-none d-md-inline-block" href="#">NUESTRA HISTORIA</a>
-              <a class="py-2 d-none d-md-inline-block" href="#">¿DÓNDE IR?</a>
-              <a class="py-2 d-none d-md-inline-block" href="#">BLOG</a>
-              <a class="py-2 d-none d-md-inline-block" href="#">PREGUNTAS FRECUENTES</a>
-              <a class="py-2 d-none d-md-inline-block" href="#">NUESTRAS NOTICIAS</a>
-              <a class="py-2 d-none d-md-inline-block" href="#">INICIAR SESIÓN</a>
-              <a class="py-2 d-none d-md-inline-block" href="#">CONTÁSCTANOS</a>
-            </div>
-    </nav>
-    <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-            <div class="carousel-inner">
-              <div class="carousel-item active">
-                <img src="https://pausa.la/img/fotos_ruta/Tingana03.jpg" class="d-block w-100" alt="foto_tingana">
-              </div>
-              <div class="carousel-item">
-                <img src="https://pausa.la/img/fotos_ruta/Vertical04.jpg" class="d-block w-100" alt="foto_vertical">
-              </div>
-              <div class="carousel-item">
-                <img src="https://pausa.la/img/fotos_ruta/Tamboilusion03.jpg" class="d-block w-100" alt="foto_tamboilusion">
+ <!-- CAROUSEL -->
+ 
+ <div class="col-md-12">
+  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+          <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+          </ol>
+          <div class="carousel-inner" role="listbox">
+            <div class="carousel-item img-carru active">
+              <img src="https://pausa.la/img/fotos_ruta/Tingana03.jpg" class="d-block w-100" alt="">
+              <div class="carousel-caption">
+                  <h2 class="slide1">Haz una pausa <img src="img/pausa.png" alt="pausa"> viaja distinto</h2>
               </div>
             </div>
+            <div class="carousel-item img-carru">
+              <img src="https://pausa.la/img/fotos_ruta/Dulzura08.jpg" class="d-block w-100" alt="">
+              <div class="carousel-caption">
+                  <h2 class="slide1">Haz una pausa <img src="img/pausa.png" alt="pausa"> viaja distinto</h2>
+              </div>
+            </div>
+            <div class="carousel-item img-carru">
+              <img src="https://pausa.la/img/fotos_ruta/Tamboilusion03.jpg" class="d-block w-100" alt="">
+              <div class="carousel-caption">
+                  <h2 class="slide1">Haz una pausa <img src="img/pausa.png" alt="pausa"> viaja distinto</h2>
+              </div>
+            </div>
+            <div class="carousel-item img-carru">
+              <img src="https://pausa.la/img/fotos_ruta/Soqtapata03.jpg" class="d-block w-100" alt="">
+              <div class="carousel-caption">
+                  <h2 class="slide1">Haz una pausa <img src="img/pausa.png" alt="pausa"> viaja distinto</h2>
+              </div>
+            </div>
+            <div class="carousel-item img-carru">
+              <img src="https://pausa.la/img/fotos_ruta/Vertical04.jpg" class="d-block w-100" alt="">
+              <div class="carousel-caption">
+                  <h2 class="slide1">Haz una pausa <img src="img/pausa.png" alt="pausa"> viaja distinto</h2>
+              </div>
+            </div>
+          </div>
+          <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Anterior</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Posterior</span>
+          </a>
+      </div>
+  </div>
+
+  <!-- MESAJE -->
+
+  <div class="mensaje-de-valor">
+    <p>Reencuentrate con la naturaleza, descubre viajes a destinos sostenibles, gestionados por personas asombrosas, que han decidido dedicar su vida a conservar y cuidar el medio ambiente.</p>
+  </div>
+   
+  <!-- LAS SECCIONES IMPORTANTES -->
+
+    <div class="card-deck">
+        <div class="card text-white">
+            <img src="img/emprendedor.jpg" class="card-img" alt="anfitrión de llamapack">
+            <div class="card-img-overlay">
+            <h3 class="card-title">ANFITRIONES</h3>
+            </div>
+        </div>
+        <div class="card text-white">
+          <a href="destinos.html">
+              <img src="https://pausa.la/img/fotos_ruta/Soqtapata04.jpg" class="card-img" alt="paisaje soqtapata">
+              <div class="card-img-overlay">
+              <h3 class="card-title">DESTINOS</h3>
+          </a>
+          </div>
+        </div>
+        <div class="card text-white">
+            <img src="img/Pamuri03.png" class="card-img" alt="foto de viajeros">
+            <div class="card-img-overlay">
+            <h3 class="card-title">TESTIMONIOS</h3>
+            </div>
+        </div>
     </div>
-        
+    <div id="mapa" class="card-deck">
+      <div class="card text-white">
+        <a href="destinos.html">
+            <img src="img/mapa-pausa.png" class="card-img" alt="mapa de los destinos">
+        </a>
+        </div>
+  </div>
+  <div class="alianza-mention">
+    <p>alianza:</p>
+    <img class="img-alianza" src="img/alianza.png" alt="logo conservamos por naturaleza">
+  </div>
 
-    <footer>
-      <div class="row">
+</main>
 
-      </div>  
-    </footer>
+ <!-- FOOTER -->
+
+  <footer>
+    <div class="contact">
+        <img class="logotipo" src="img/pausa-logo-white.png" alt="logo de pausa">
+    </div>
+    <ul class="networks">
+      <p>siguenos en:</p>
+        <li><a taret="_blank" href="https://www.facebook.com/pausa.travel/"><img src="img/facebook-white.png" alt=""></a></li>
+        <li><a target="_blank" href="https://www.instagram.com/pausa.travel/"><img src="img/instagram-white.png" alt=""></a></li>
+    </ul>
+    <div class="copy">
+        ©COLLET&KAREM - Copyright 2019 - All right reserved
+    </div>
+</footer>    
     
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
